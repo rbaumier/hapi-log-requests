@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^16.5.2",
-    "hoek": "^4.2.0"
+    "hapi": "^17.0.1",
+    "hoek": "^5.0.2"
   }
 }
